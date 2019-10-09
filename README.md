@@ -1,4 +1,4 @@
-# Useful_R_packages
+# Useful R packages
 
 | Repository     | Description               |
 | :-------------- | :------------------------- |
@@ -14,3 +14,4 @@
 | [nathan-russell/hashmap](https://github.com/nathan-russell/hashmap) | Faster hash maps in R |
 | [jalvesaq/colorout](https://github.com/jalvesaq/colorout) | Colorize R output in terminal emulators |
 | [ropensci/ssh](https://github.com/ropensci/ssh) | Native SSH client in R based on libssh |
+| [cran/brew](https://cran.r-project.org/web/packages/brew/index.html) | brew: Templating Framework for Report Generation |
