@@ -15,3 +15,4 @@
 | [jalvesaq/colorout](https://github.com/jalvesaq/colorout) | Colorize R output in terminal emulators |
 | [ropensci/ssh](https://github.com/ropensci/ssh) | Native SSH client in R based on libssh |
 | [cran/brew](https://cran.r-project.org/web/packages/brew/index.html) | brew: Templating Framework for Report Generation |
+| [jeffwong/pdist](https://github.com/jeffwong/pdist) | pdist: Partitioned Distance Function |
